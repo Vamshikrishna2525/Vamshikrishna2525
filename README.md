@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Java Developer** eager to build scalable and effic
 
 ## 📫 How to Reach Me  
 - **Email:** [yadagirivamshikrishna3107@gmail.com](mailto:yadagirivamshikrishna3107@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/vamshi-krishna-yadagiri](#)  
+- **LinkedIn:** [linkedin.com/in/vamshikrishna1108](https://www.linkedin.com/in/vamshikrishna1108/) 
 - **GitHub:** [github.com/Vamshikrishna2525](https://github.com/Vamshikrishna2525)  
 
 🚀 Let's connect and create something amazing!  
