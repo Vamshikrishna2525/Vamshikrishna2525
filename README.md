@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Java Developer** eager to build scalable and effic
 - **Cloud technologies** (AWS, Azure)  
 
 ## 💼 Work Experience  
-- **Testing Engineer Intern** at Nucleonix Systems Pvt Ltd  
+- **Engineer Intern** at Nucleonix Systems Pvt Ltd  
 - **Intern** at CVCorp  
 - **Salesforce Administrator Virtual Internship**  
 - **UiPath RPA Developer Foundation Certified**  
